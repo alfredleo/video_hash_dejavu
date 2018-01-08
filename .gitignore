@@ -5,3 +5,7 @@ mp3
 *.mp3
 .DS_Store
 *.cnf
+.idea
+venv
+mp3
+env_with_system
